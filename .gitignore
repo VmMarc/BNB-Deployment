@@ -12,3 +12,5 @@ artifacts
 
 #docgen
 docs
+
+secret.json
